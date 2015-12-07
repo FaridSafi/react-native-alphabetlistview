@@ -18,12 +18,6 @@
     "ios",
     "android"
   ],
-  "devDependencies": {
-    "react-native": ">=0.13.2"
-  },
-  "peerDependencies": {
-    "react-native": ">=0.13.2"
-  },
   "dependencies": {
     "merge": "^1.2.0"
   }
